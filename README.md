@@ -36,7 +36,7 @@
 
 ## 🎯 Overview
 
-LightCastle Partners Dashboard is a central hub designed for modern teams to collaborate effectively while maintaining data security and structured approval workflows. The platform ensures that sensitive information (like financial claims) follows strict approval processes while keeping everyday project and task management simple and intuitive.
+LightCastle Partners Web App is a central hub designed for modern teams to collaborate effectively while maintaining data security and structured approval workflows. The platform ensures that sensitive information (like financial claims) follows strict approval processes while keeping everyday project and task management simple and intuitive.
 
 **Key Benefits:**
 - 🔒 **Role-based security** - Everyone sees exactly what they need to see
